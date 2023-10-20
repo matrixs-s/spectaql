@@ -1,6 +1,6 @@
 {
   "name": "spectaql-custom-json-response",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package for extending the spectaql library to enable manual JSON response customization for GraphQL query and mutation APIs.",
   "author": "matrixs-s",
   "homepage": "https://github.com/matrixs-s/spectaql",
