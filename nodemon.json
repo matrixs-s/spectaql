@@ -1,0 +1,12 @@
+{
+  "delay": 1000,
+  "verbose": true,
+  "ext": "js,mjs,json,yaml,yml,css,scss,hbs,txt,gql,graphql,graphqls",
+  "ignore": [
+    ".git",
+    "docs/",
+    "public/",
+    "vendor/",
+    "dist/"
+  ]
+}

@@ -1,0 +1,18 @@
+dist/
+vendor/
+public/
+# From local packing and unzipping
+package/
+node_modules
+scratch
+
+config-local.yml
+
+**/*.tgz
+**/.DS_STORE
+**/.DS_Store
+~*
+*~
+*bak
+*cache
+*.log
